@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-28T14:11:30.552Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="BgPtFlgBrjk0f5xhGtkX" version="14.4.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-03-28T14:13:20.321Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="hzZuPujkwdU5hn4BUTBk" version="14.4.9" type="github" pages="2">
   <diagram id="sqW_TXyj2ASHWMnix2Vk" name="Page-1">
     <mxGraphModel dx="905" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -73,7 +73,7 @@
           <mxGeometry x="440" y="280" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5DWHEY_dmFl2IgSKihgU-15" value="Corvus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="5DWHEY_dmFl2IgSKihgU-1">
-          <mxGeometry x="80" y="220" width="400" height="20" as="geometry" />
+          <mxGeometry x="80" y="220" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5DWHEY_dmFl2IgSKihgU-16" value="Consul Service(DNS:Port)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="5DWHEY_dmFl2IgSKihgU-1">
           <mxGeometry x="80" y="180" width="400" height="20" as="geometry" />
@@ -113,6 +113,15 @@
         </mxCell>
         <mxCell id="5DWHEY_dmFl2IgSKihgU-29" value="wal" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="5DWHEY_dmFl2IgSKihgU-1">
           <mxGeometry x="440" y="380" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5DWHEY_dmFl2IgSKihgU-30" value="Corvus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="5DWHEY_dmFl2IgSKihgU-1">
+          <mxGeometry x="187" y="220" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5DWHEY_dmFl2IgSKihgU-31" value="Corvus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="5DWHEY_dmFl2IgSKihgU-1">
+          <mxGeometry x="293" y="220" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5DWHEY_dmFl2IgSKihgU-32" value="Corvus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="5DWHEY_dmFl2IgSKihgU-1">
+          <mxGeometry x="400" y="220" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
